@@ -16,3 +16,5 @@ addSbtPlugin("org.portable-scala" % "sbt-scala-native-crossproject" % "0.6.1")
 addSbtPlugin("org.scala-native" % "sbt-scala-native" % "0.3.9")
 addSbtPlugin("com.jsuereth" % "sbt-pgp" % "1.1.2")
 addSbtPlugin("com.geirsson" % "sbt-scalafmt" % "1.5.1")
+
+addSbtPlugin("ch.epfl.lamp" % "sbt-dotty" % "0.3.0")
